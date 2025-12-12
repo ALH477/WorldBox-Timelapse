@@ -1,4 +1,4 @@
-# WorldBox Timelapse System — NixOS Flake  
+# WorldBox/LAMMPS Timelapse System — NixOS Flake  
 **24h → 90min Cinematic Timelapse with Real-Time Bursts**  
 *Declarative • Reproducible • Production-Ready*
 

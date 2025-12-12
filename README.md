@@ -6,7 +6,7 @@
 
 [![NixOS](https://img.shields.io/badge/NixOS-24.05-blue.svg)](https://nixos.org)
 [![Flakes](https://img.shields.io/badge/Flakes-Enabled-green.svg)](https://nixos.wiki/wiki/Flakes)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: BSD3](https://img.shields.io/badge/License-BSD-yellow.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-ALH477%2Fworldbox--timelapse-8A2BE2)](https://github.com/ALH477/WorldBox-Timelapse)
 
 ---
@@ -348,7 +348,7 @@ sudo rm -rf /timelapse/*
 
 ## License
 
-[MIT License](LICENSE)
+[BSD3 License](LICENSE)
 
 ---
 
